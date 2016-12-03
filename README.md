@@ -1,1 +1,2 @@
-# Text-Summarizer
+# Text-summarizer
+Extraction based text summarization
